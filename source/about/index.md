@@ -3,4 +3,4 @@ title: about
 layout: about
 ---
 
-test
+Here is Alex - a lucky late bloomer who's self-taught.
