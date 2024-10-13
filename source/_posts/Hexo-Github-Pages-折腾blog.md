@@ -208,7 +208,7 @@ keywords:
 
 
 
-## 0x99 Appendix
+## 0x99 References
 
 1. https://hk.v2ex.com/t/1009591
 2. https://hexo.io/zh-cn/docs/index.html
