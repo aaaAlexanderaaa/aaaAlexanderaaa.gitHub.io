@@ -98,6 +98,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
@@ -105,3 +106,10 @@ deploy:
   repo: https://github.com/aaaAlexanderaaa/aaaAlexanderaaa.gitHub.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
+
+# RSS feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20 # 最大文章數量
+  content: false # 是否顯示內文
