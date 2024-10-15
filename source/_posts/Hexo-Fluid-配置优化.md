@@ -9,9 +9,10 @@ categories:
 - ['折腾','Hexo']
 keywords:
 ---
+
 # Hexo + Fluid 配置优化
 
-# 0x01 Background
+## 0x01 Background
 
 
 
@@ -91,9 +92,9 @@ Why：要是博客没有feedback的话，未免有点太单调了
 
 以下是效果图，有点丑……Nevermind，还要啥自行车
 
-![](assets/EH7EOxk8nHyVgzZsg78Xkj19HPJB4MzMH6oROTlJAY8=.png)
+![](/assets/EH7EOxk8nHyVgzZsg78Xkj19HPJB4MzMH6oROTlJAY8=.png)
 
-![](assets/pbWYotv4Zlw87sj_Rr2OuUVyCJ500hzW3t-a5-wJW1M=.png)
+![](/assets/pbWYotv4Zlw87sj_Rr2OuUVyCJ500hzW3t-a5-wJW1M=.png)
 
 ### 06 robots.txt
 
